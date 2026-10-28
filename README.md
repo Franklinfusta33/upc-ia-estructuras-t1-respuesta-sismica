@@ -6,6 +6,7 @@
 Franklin Fustamante Sánchez e201568658  
 Carlos David Vargas Marin e202527282
 Abrahán Ramirez More e202527900
+Jheremy Richard Molleapaza Infantes 
 
 ## Objetivo
 Predecir el **desplazamiento espectral elástico Sd (cm)** a T=0.80 s y 5% de amortiguamiento, para un oscilador SDOF, a partir de parámetros sísmicos de PEER NGA-West2. No equivale a deriva ni desplazamiento real de una edificación.
