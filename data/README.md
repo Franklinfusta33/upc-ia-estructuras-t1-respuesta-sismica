@@ -1,0 +1,1 @@
+Origen propuesto: NGA-West2 flatfiles, https://peer.berkeley.edu/node/74. Descarga pendiente. Conservar original y registrar fecha de acceso, nombre, filas, variables, unidades, licencia y filtros antes de analizar.
